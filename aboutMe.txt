@@ -2,3 +2,4 @@ Name: Audrey Hou
 Major: Computer Engineering
 Year: 2021
 Hobbies: Photography, art, stocks, computers, mechanical keyboards
+Classes I'm taking this quarter: COEN174, COEN174L, MATH125, COEN122, COEN122L, CHST106, COEN296
